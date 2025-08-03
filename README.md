@@ -1,4 +1,5 @@
-# pyCalculator
+# pyCalculator# pyCalculator
+This file is inside the master branch 
 This calculator allows readers to input two numbers  and an operator such as addition, substration, division, and muitiplication while the calculator performs the operation.
 
 For eaxample, if a user inputs 2+2 , it outputs 4.
