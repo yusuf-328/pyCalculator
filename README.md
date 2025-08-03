@@ -1,5 +1,7 @@
 # pyCalculator
-This calculator allows readers to input two numbers  and an operator such as addition, substration, division, and muitiplication while the calculator performs the operation
-for eaxample, if a user inputs 2+2 , it outputs 4
-if a user inputs 5 * 5 , it outputs 25
-6/3, outputs 2 
+This calculator allows readers to input two numbers  and an operator such as addition, substration, division, and muitiplication while the calculator performs the operation.
+for eaxample, if a user inputs 2+2 , it outputs 4.
+if a user inputs 5 * 5 , it outputs 25.
+6/3, outputs 2 .
+
+feel free to explore my mini-calculator
